@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(60,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(79,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(98,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(117,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(136,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(155,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\volk\source\repos\QLearning\QLearning\Source.cpp(174,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  QLearning.vcxproj -> C:\Users\volk\source\repos\QLearning\Debug\QLearning.exe
